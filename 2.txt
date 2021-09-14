@@ -2,3 +2,4 @@ goodbye
 some other line
 hey
 good job!
+line from user2
